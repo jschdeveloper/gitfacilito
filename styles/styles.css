@@ -48,7 +48,7 @@ h1{
 }
 
 .info h2{
-	font-size: 50px;
+	font-size: 100px;
 	margin: 15px 0;
 	text-align: center;
 	text-transform: uppercase;
@@ -111,6 +111,6 @@ h1{
 	}
 
 	.infoContent .block{
-		width: 30%;
+		width: 20%;
 	}
 }
